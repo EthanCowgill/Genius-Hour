@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Pokemon Tips</title>
-
+Pokemon Tips
 </head>
 <body>
 <h1>Cheats</h1>
