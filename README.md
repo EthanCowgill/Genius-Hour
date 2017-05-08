@@ -1,4 +1,10 @@
 <!DOCTYPE html>
 <html>
+<link>
 <head>
-  <title>How coding can help the new generation</title>
+<title>Pokemon Tips</title>
+
+</head>
+</link>
+
+
