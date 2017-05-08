@@ -6,6 +6,9 @@ Pokemon Tips
 <body>
 <h1>Cheats</h1>
 <p>you cavsnvksjdbvikbvjkidbvhkh</p>
-</body>
 
+<ul>
+<li>hkgj,fuyf</li>
+</ul>
+</body>
 </html>
