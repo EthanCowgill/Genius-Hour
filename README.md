@@ -13,4 +13,8 @@ Pokemon Tips
 <li>One way to get a rare candy a day is go to battle tree beat single battle unlock super single then battle super singles until you beat battle 20 then when you come the next day and talk to the woman that you talk to when you want to challenge the battle tree she will give you a rare candy over a period of time this could prove very helpful when you need to level up high level pokemon</li> 
 </ul>
 </body>
-<p>Those tips were easy to get items with minimun effort now I will tell you how to some ways to get shiny pokemon.</p>
+<p>Those tips were the way to go to get items with minimun effort now I will tell you how to some ways to get shiny pokemon.</p>
+
+<ul>
+<h1>SOS method</h1>
+<li>First get an adreniline orb a pokemon with the ability pressure and the move false swipe get in a battle with the pokemon you want shiny.Now you use your adreniline orb and next turn use false swipe.If you get it to 1 hp it will probably call for a pokemonfrom there you kill the pokemon called in and then it will call for another(with most pokemon)from there you will have to keep in mind of its moves and if they run out it would struggle and kill itself.Once it calls for a pokemon you are starting a chain after a while your chain gets high and you will get a shiny(This method will go faster if you have the shiny charm). 
