@@ -13,7 +13,9 @@ Pokemon Tips
 <li>One way to get a rare candy a day is go to battle tree beat single battle unlock super single then battle super singles until you beat battle 20 then when you come the next day and talk to the woman that you talk to when you want to challenge the battle tree she will give you a rare candy over a period of time this could prove very helpful when you need to level up high level pokemon</li> 
 </ul>
 </body>
-<p>Those tips were the way to go to get items with minimun effort now I will tell you how to some ways to get shiny pokemon.</p>
+<ul>
+<h1>Shiny pokemon</h1>
+<p>Those tips were the way to go to get items with minimun effort now I will tell you how to some ways to get shiny pokemon.Shiny pokemon are very rare variants of pokemon that are different colors frokm its original form and it is amazing to call out a shiny when doing an online battle people love doing that(especially me)!</p>
 
 <ul>
 <h1>SOS method</h1>
