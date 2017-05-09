@@ -3,7 +3,7 @@
 <head>
 Pokemon Tips
 </head>
-<body backround color="aqua">
+<body>
 <h1>Cheats</h1>
 <p>you can always cheat in a pokemon game let me tell you some cheats that take place in pokemon sun and moon.</p>
 
@@ -24,3 +24,25 @@ Pokemon Tips
 <h1>Horde chaining</h1>
 <li>Horde chaining can only work in pokemon X and Y and omega ruby and alpha saphire but you need a pokemon with sweet scent use it in grass then most the time but if not use it in a different piece of grass or route but when you do get 5 pokemon you have a better chance of getting a shiny.</li>
 </ul>
+h1 {
+  color: MidnightBlue;
+  background-color: Aqua;
+  font-family: 'Covered By Your Grace', sans-serif;
+  font-size: 100px;
+  line-height: 76px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 20%;
+h1 {
+  color: MidnightBlue;
+  background-color: Aqua;
+  font-family: 'Covered By Your Grace', sans-serif;
+  font-size: 100px;
+  line-height: 76px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 20%;
+
+ background-image:
