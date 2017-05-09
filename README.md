@@ -22,4 +22,5 @@ Pokemon Tips
 <h1>SOS method</h1>
 <li>First get an adreniline orb a pokemon with the ability pressure and the move false swipe get in a battle with the pokemon you want shiny.Now you use your adreniline orb and next turn use false swipe.If you get it to 1 hp it will probably call for a pokemonfrom there you kill the pokemon called in and then it will call for another(with most pokemon)from there you will have to keep in mind of its moves and if they run out it would struggle and kill itself.Once it calls for a pokemon you are starting a chain after a while your chain gets high and you will get a shiny(This method will go faster if you have the shiny charm). 
 <h1>Horde chaining</h1>
-<li>Horde chaining can only work in pokemon X and Y and omega ruby and alpha saphire but you need a pokemon with sweet scent use it in grass then most the time but if not use it in a different piece of grass or route but when you do get 5 pokemon you have a better chance og getting a shiny.</li>
+<li>Horde chaining can only work in pokemon X and Y and omega ruby and alpha saphire but you need a pokemon with sweet scent use it in grass then most the time but if not use it in a different piece of grass or route but when you do get 5 pokemon you have a better chance of getting a shiny.</li>
+</ul>
