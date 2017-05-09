@@ -3,9 +3,7 @@
 <head>
 Pokemon Tips
 </head>
-<body {
-     background color:aqua
-}
+<body bgcolor="aqua">
 <h1>Cheats</h1>
 <p>you can always cheat in a pokemon game let me tell you some cheats that take place in pokemon sun and moon.</p>
 
