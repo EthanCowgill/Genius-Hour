@@ -11,12 +11,15 @@ Pokemon Tips
 <li>Go to supermart(with supersale)go to lady in red speak to her buy 11 pokeballs(normal)and you will get a premier ball sell those 11 pokeballs and you will get all your money back and you got a free premier ball</li>
 
 <li>Go to melemele island from then go to the beach in hau'oli city go on lapras/shrpedo go to small piece of land on the right once you get on get on stoutland and you will sniff out a rare candy pick it up and come back to that spot a couple days later and try it again sometimes you will get a free rare candy</li>
-<li>One way to get a rare candy a day is go to battle tree beat single battle unlock super single then battle super singles until you beat battle 20 then when you come the next day and talk to the woman that you talk to when you want to challenge the battle tree she will give you a rare candy over a period of time this could prove very helpful when you need to level up high level pokemon</li> 
+<li>One way to get a rare candy a day is go to battle tree beat single battle unlock super single then battle super singles until you beat battle 20 then when you come the next day and talk to the woman that you talk to when you want to challenge the battle tree she will give you a rare candy over a period of time this could prove very helpful when you need to level up high level pokemon<li> 
+
+
+<li>those were cheats that get you items now let me tell you some ways to get shiny's a little more faster</li>
 </ul>
 </body>
 <ul>
 <h1>Shiny pokemon</h1>
-<p>Those tips were the way to go to get items with minimun effort now I will tell you how to some ways to get shiny pokemon.Shiny pokemon are very rare variants of pokemon that are different colors from its original form and it is amazing to call out a shiny when doing an online battle,people love doing that(especially me)!</p>
+<p>I will tell you some ways to get shiny pokemon just keep in mind if you want shiny's it will take some time i would say about 15 minutes to 2 hours to get one shiny if you are wondering about what shiny's are(for people who are new at this)let me tell you.Shiny pokemon are very rare variants of pokemon that are different colors from its original form and it is amazing to call out a shiny when doing an online battle,people love doing that.</p>
 
 <ul>
 <h1>SOS method</h1>
