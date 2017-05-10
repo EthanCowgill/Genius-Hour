@@ -12,7 +12,6 @@ Pokemon Tips
 
 <li>Go to melemele island from then go to the beach in hau'oli city go on lapras/shrpedo go to small piece of land on the right once you get on get on stoutland and you will sniff out a rare candy pick it up and come back to that spot a couple days later and try it again sometimes you will get a free rare candy</li>
 <li>One way to get a rare candy a day is go to battle tree beat single battle unlock super single then battle super singles until you beat battle 20 then when you come the next day and talk to the woman that you talk to when you want to challenge the battle tree she will give you a rare candy over a period of time this could prove very helpful when you need to level up high level pokemon<li> 
-
 <li>those were cheats that get you items now let me tell you some ways to get shiny's a little more faster</li>
 </ul>
 </body>
@@ -27,3 +26,5 @@ Pokemon Tips
 <li>Horde chaining can only work in pokemon X and Y and omega ruby and alpha saphire but you need a pokemon with sweet scent use it in grass then most the time but if not use it in a different piece of grass or route but when you do get 5 pokemon you have a better chance of getting a shiny.</li>
 <h1>Pokerus training</h1>
 <p>As some of you know there is this thing called pokerus.Pokerus helps the growth of a pokemon meaning it doesn't take as much experience points to level up.Anyway if you have one pokemon with pokerus put it in your party with pokemon that aren't all level 100 then the pokerus will spread and you pokemon will level up quicker and it helps for hard level pokemon that are nearing level 100.</p> 
+<h1>Getting FC</h1>
+<p>Getting FC is sometimes hard to get because if you are like me you spend all your time wonder tradeing and you plaza gets full with people who have no intention of being there.The best way for me to do it is get slips that let you play games and when you complete it you get FC after a while it starts adding up.</p>
