@@ -24,4 +24,4 @@ Pokemon Tips
 <h1>Horde chaining</h1>
 <li>Horde chaining can only work in pokemon X and Y and omega ruby and alpha saphire but you need a pokemon with sweet scent use it in grass then most the time but if not use it in a different piece of grass or route but when you do get 5 pokemon you have a better chance of getting a shiny.</li>
 <h1>Pokerus training</h1>
-<p>As some of you know there is this thing called pokerus.Pokerus helps the growth of a pokemon meaning it doesn't take as much experience points to level up.Anyway if you have one pokemon with pokerus put it in your party with pokemon that aren't all level 100 then the pokerus will spread and you pokemon will level up quicker</p> 
+<p>As some of you know there is this thing called pokerus.Pokerus helps the growth of a pokemon meaning it doesn't take as much experience points to level up.Anyway if you have one pokemon with pokerus put it in your party with pokemon that aren't all level 100 then the pokerus will spread and you pokemon will level up quicker and it helps for hard level pokemon that are nearing level 100.</p> 
