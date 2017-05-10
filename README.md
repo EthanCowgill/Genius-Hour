@@ -23,8 +23,5 @@ Pokemon Tips
 <li>First get an adreniline orb a pokemon with the ability pressure and the move false swipe get in a battle with the pokemon you want shiny.Now you use your adreniline orb and next turn use false swipe.If you get it to 1 hp it will probably call for a pokemonfrom there you kill the pokemon called in and then it will call for another(with most pokemon)from there you will have to keep in mind of its moves and if they run out it would struggle and kill itself.Once it calls for a pokemon you are starting a chain after a while your chain gets high and you will get a shiny(This method will go faster if you have the shiny charm). 
 <h1>Horde chaining</h1>
 <li>Horde chaining can only work in pokemon X and Y and omega ruby and alpha saphire but you need a pokemon with sweet scent use it in grass then most the time but if not use it in a different piece of grass or route but when you do get 5 pokemon you have a better chance of getting a shiny.</li>
-</ul>
- .header {
- background-image:url("https://s-media-cache-ak0.pinimg.com/736x/5b/db/d6/5bdbd62af8ee944d1ca30827f0ee47a8.jpg"); height: 400px;
-  background-position: center center;
-}
+<h1>Pokerus training</h1>
+<p>As some of you know there is this thing called pokerus.Pokerus helps the growth of a pokemon meaning it doesn't take as much experience points to level up.Anyway if you have one pokemon with pokerus put it in your party with pokemon that aren't all level 100 then the pokerus will spread and you pokemon will level up quicker</p> 
